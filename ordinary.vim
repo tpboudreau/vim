@@ -9,8 +9,4 @@ set number
 set nowrap
 set tabstop=4
 set shiftwidth=4
-set expandtab
-set modeline
-"set list
-"set listchars=...
 
